@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
+title: Goncharko Law
+email: stasia@goncharkolaw.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "goncharkolaw.com"
 
 twitter_username:
 github_username:
